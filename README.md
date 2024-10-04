@@ -4,4 +4,4 @@
 Ein Portfolio-Projekt, das meine Fähigkeiten in Java und Webentwicklung zeigt.
 
 ## [MusicSyncApp](https://github.com/pronixpriv01/MusicSyncApp.git)
-Eine App zur Musiksynchronisation, die in Python entwickelt wurde.
+Eine App zur Musiksynchronisation, die in Java entwickelt wurde.
